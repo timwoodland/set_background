@@ -1,6 +1,6 @@
 # Read Me
 
-The function of this scrip is to replace the background on a machine running Windows 10.
+The function of this scrip is to replace the background on a machine running Windows 10. It relies on having the `screeninfo` package installed.
 
 The scrip looks for the image file titled `background_image.jpg` which must be in the root of the directory containing this script.
 
